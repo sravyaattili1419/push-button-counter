@@ -1,2 +1,14 @@
 # push-button-counter
-Arduino push button counter using serial monitor
+
+COMPANY:CODTECH IT SOLUTIONS
+
+NAME:Sravya Attili
+
+INTERN ID:CITS1205
+
+DURATION: 6 WEEKS
+
+MENTOR:NEELA SANTHOSH
+
+DESCRIPTION:ARDUINO PUSH BUTTON COUNTER USING SERIAL MONITOR
+
