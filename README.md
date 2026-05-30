@@ -15,3 +15,5 @@ The main objective of the project is to detect each press of a push button and i
 In conclusion, the Push Button Counter Project is a practical and educational system that accurately counts button presses and displays the result in real time. It combines hardware and software components to create a reliable counting mechanism while introducing important engineering concepts. Due to its simplicity, low cost, and wide range of applications, it remains one of the most popular projects for learning embedded systems and digital electronics. The knowledge gained from this project can be applied to more complex counting, monitoring, and automation solutions in the future.
 
 OUTPUT:"https://github.com/user-attachmena72d58bb-8e32-4c09-ae98-3fd3f6eacd25" />
+
+CURSOR:<img width="758" height="250" alt="image" src="https://github.com/user-attachments/assets/d2e1d65d-9861-4096-92cd-fdd7171e0adb" />
